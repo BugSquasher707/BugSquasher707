@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arslan Arjumand</h1>
+<h1 align="center">Hi 👋, I'm BugSquasher707</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on Modjen Ecommerce(https://modjen.com)
